@@ -10,6 +10,7 @@ namespace LearnGitBranch
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Meep Moop");
         }
     }
 }
